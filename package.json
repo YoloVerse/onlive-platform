@@ -17,6 +17,22 @@
   "homepage": "https://github.com/YoloVerse/onlive-platform#readme",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv-flow": "^4.1.0",
+    "express": "^4.21.2",
+    "express-async-errors": "^3.1.1",
+    "express-rate-limit": "^7.5.0",
+    "express-slow-down": "^2.0.3",
+    "helmet": "^8.1.0",
+    "joi": "^17.13.3",
+    "joi-objectid": "^4.0.2",
+    "mongoose": "^8.14.3",
+    "prettier": "^3.5.3",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0",
+    "winston-mongodb": "^6.0.0"
   }
 }
